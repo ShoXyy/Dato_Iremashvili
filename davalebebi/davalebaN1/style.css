@@ -1,0 +1,52 @@
+.container{
+    display:flex;
+}
+.surf1{
+    width:100px;
+    height:100px;
+    border-radius:20px;
+    background-color:purple;
+}
+.surf2{
+    width:100px;
+    height:100px;
+    border-radius:20px;
+    background-color:yellow;
+    margin-left:10px;
+}
+.surf3{
+    width:100px;
+    height:100px;
+    border-radius:20px;
+    background-color:red;
+    margin-left:10px;
+}
+.surf4{
+    width:100px;
+    height:100px;
+    border-radius:20px;
+    background-color:darkblue;
+    margin-left:10px;
+}
+.surf5{
+    width:100px;
+    height:100px;
+    border-radius:20px;
+    background-color:limegreen;
+    margin-left:10px;
+}
+.surf6{
+    width:100px;
+    height:100px;
+    border-radius:20px;
+    background-color:coral;
+    margin-left:10px;
+}
+body{
+    background-color:lightsteelblue;
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
